@@ -21,7 +21,9 @@
             "email": "andi.tenroaji.ahmad@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "php": "^8.0",
         "filament/filament": "^3.0",
